@@ -1,2 +1,2 @@
 # spring-data-support
-Spring Frmaework with JDBC Template
+Spring Framework with JDBC Template
